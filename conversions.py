@@ -51,3 +51,18 @@ print("Dict values to tuple:", values_tuple)
 
 print("Dict from list of pairs:", dict_from_pairs)
 print("Dict from set of pairs:", dict_from_set_of_pairs)
+'''op
+Tuple from list: (1, 2, 3, 4)
+Set from list: {1, 2, 3, 4}
+List from tuple: [5, 6, 7, 8]
+Set from tuple: {8, 5, 6, 7}
+List from set: [9, 10, 11, 12]
+Tuple from set: (9, 10, 11, 12)
+Dict keys to list: ['a', 'b', 'c']
+Dict values to list: [1, 2, 3]
+Dict items to list: [('a', 1), ('b', 2), ('c', 3)]
+Dict keys to tuple: ('a', 'b', 'c')
+Dict values to tuple: (1, 2, 3)
+Dict from list of pairs: {'x': 100, 'y': 200}
+Dict from set of pairs: {'m': 1, 'n': 2}
+'''
