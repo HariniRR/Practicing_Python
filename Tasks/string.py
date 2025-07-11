@@ -70,7 +70,7 @@ for char in str:
         char_count[char] = 1
  print("First repeated character:", char)
 
- #ha numeric digits
+ #has numeric digits
 for char in str:
     if '0' <= char <= '9':
         has_digit = True
